@@ -1,1 +1,1 @@
-A notepad written in erlang using wxWidgets
+A pet notepad written in erlang using wxWidgets
